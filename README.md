@@ -7,6 +7,6 @@ reset the number by pressing on reset button , the number will return back to 0
 
 
 # Technologies being used 
-. HTML : for creating the structure of the App
-. CSS: for styling the layout and appearnce of the App
-.JS: for the interactivity
+1.  HTML : for creating the structure of the App
+2. CSS: for styling the layout and appearnce of the App
+3. JS: for the interactivity
