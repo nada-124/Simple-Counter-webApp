@@ -1,0 +1,45 @@
+#ColorFlipper{
+
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    border: 1 px solid black;
+    align-items: center;
+    background-color: wheat;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+button{
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: wheat;
+    
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.counter{
+    display: flex;
+    justify-content:center ;
+    width: 30%;
+}
+#Decrement ,#Increment,#Reset{
+    height: 50px;
+    width: 120px;
+    padding: 0 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    margin: 20px;
+}
